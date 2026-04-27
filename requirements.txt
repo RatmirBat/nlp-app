@@ -1,5 +1,4 @@
-streamlit==1.32.2
-langdetect==1.0.9
-sentencepiece
+streamlit
+langdetect
 huggingface_hub
 python-dotenv
