@@ -4,7 +4,7 @@
 
 ## 🔗 Демо
 
-👉 https://ratmirnlpwebapp.streamlit.app
+👉 https://ratmirnlpwebapp.streamlit.app/
 
 ## 🚀 Возможности
 
